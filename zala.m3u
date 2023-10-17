@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Беларусь 1" tvg-logo="broadcastChannel1582200414598.jpg",Беларусь 1
+https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Беларусь 2" tvg-logo="broadcastChannel1588164967847.jpg",Беларусь 2
+https://mfe.svc.ott.zala.by/hls/GCKYZGGFEJ_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Беларусь 3" tvg-logo="broadcastChannel1571644901218.jpg",Беларусь 3
+https://mfe.svc.ott.zala.by/hls/TSNEW37RPC_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Беларусь 5" tvg-logo="broadcastChannel1588164953719.jpg",Беларусь 5
+https://mfe.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="НТВ Беларусь" tvg-logo="broadcastChannel1415259492101.jpg",НТВ Беларусь
+https://mfe.svc.ott.zala.by/hls/DYJ5GH8HOK_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="ОНТ" tvg-logo="broadcastChannel1415259010733.png",ОНТ
+https://mfe.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="РТР Беларусь" tvg-logo="broadcastChannel1471865681241.png",РТР Беларусь
+https://mfe.svc.ott.zala.by/hls/7MQSYYGHFE_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="СТВ" tvg-logo="broadcastChannel1541410901860.jpg",СТВ
+https://mfe.svc.ott.zala.by/hls/RZEQ3BLSTY_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Мир" tvg-logo="broadcastChannel1427114333614.png",Мир
+https://mfe.svc.ott.zala.by/hls/M4K3ZYBPWQ_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="CuriosityStream" tvg-logo="broadcastChannel1686143300724.jpg",CuriosityStream
+https://mfe.svc.ott.zala.by/hls/CH_CURIOSITY_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Gulli Girl" tvg-logo="broadcastChannel1483968791445.png",Gulli Girl
+https://mfe.svc.ott.zala.by/hls/7FFGONY2N8_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="RTG TV" tvg-logo="broadcastChannel1686143773562.png",RTG TV
+https://mfe.svc.ott.zala.by/hls/CH_RTG_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="TESTEPG" tvg-logo="broadcastChannel1676269379943.jpg",TESTEPG
+https://mfe20.svc.ott.zala.by/hls/CH_TESTEPG_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Tiji" tvg-logo="broadcastChannel1510580520753.jpg",Tiji
+https://mfe.svc.ott.zala.by/hls/Q0HVVEIKSQ_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Travel+Adventure" tvg-logo="broadcastChannel1630912972161.png",Travel+Adventure
+https://mfe.svc.ott.zala.by/hls/CH_TRAVELADVEN_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="WORLD FASHION International" tvg-logo="broadcastChannel1686144143683.jpg",WORLD FASHION International
+https://mfe.svc.ott.zala.by/hls/CH_WORLDFASH_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Анекдот ТВ" tvg-logo="broadcastChannel1632984377142.png",Анекдот ТВ
+https://mfe.svc.ott.zala.by/hls/CH_ANEKDOT_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Буг ТВ" tvg-logo="broadcastChannel1582549825124.jpg",Буг ТВ
+https://mfe.svc.ott.zala.by/hls/CH_BUGTV_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Глазами туриста" tvg-logo="broadcastChannel1600671344491.jpg",Глазами туриста
+https://mfe.svc.ott.zala.by/hls/CH_GLAZTUR_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Гомель ТВ" tvg-logo="broadcastChannel1625127059738.jpg",Гомель ТВ
+https://mfe.svc.ott.zala.by/hls/CH_GOMEL_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Гродно +" tvg-logo="broadcastChannel1537256912700.jpg",Гродно +
+https://mfe.svc.ott.zala.by/hls/CH_GRODNO_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Детский" tvg-logo="broadcastChannel1695308266811.png",Детский
+https://mfe.svc.ott.zala.by/hls/CH_UNIKUM_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Детский мир/Телеклуб" tvg-logo="broadcastChannel1427183201571.jpg",Детский мир/Телеклуб
+https://mfe.svc.ott.zala.by/hls/9F67L3DGIF_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Диалоги о рыбалке" tvg-logo="broadcastChannel1694090530871.jpg",Диалоги о рыбалке
+https://mfe.svc.ott.zala.by/hls/CH_DIALOGFISH_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Дикая рыбалка" tvg-logo="broadcastChannel1680208016751.jpg",Дикая рыбалка
+https://mfe.svc.ott.zala.by/hls/CH_DIKAYARIBALKA_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="ЗВЕЗДА" tvg-logo="broadcastChannel1689675234414.jpg",ЗВЕЗДА
+https://mfe.svc.ott.zala.by/hls/CH_ZVEZDA_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Индийское кино" tvg-logo="broadcastChannel1471866122295.jpg",Индийское кино
+https://mfe.svc.ott.zala.by/hls/CH_INDIYATV_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Интекс" tvg-logo="broadcastChannel1625124166626.jpg",Интекс
+https://mfe.svc.ott.zala.by/hls/CH_INTEX_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Лида ТВ" tvg-logo="broadcastChannel1677741614723.png",Лида ТВ
+https://mfe.svc.ott.zala.by/hls/CH_LIDA_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Мир баскетбола" tvg-logo="broadcastChannel1609836885330.jpg",Мир баскетбола
+https://mfe.svc.ott.zala.by/hls/CH_MIRBASKET_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Мультиландия" tvg-logo="broadcastChannel1666355286841.jpg",Мультиландия
+https://mfe.svc.ott.zala.by/hls/CH_MULTIMANIYA_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="НТВ Стиль" tvg-logo="broadcastChannel1611568442260.jpg",НТВ Стиль
+https://mfe.svc.ott.zala.by/hls/CH_NTVSTIL_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Наша Тема" tvg-logo="broadcastChannel1626203890770.png",Наша Тема
+https://mfe.svc.ott.zala.by/hls/CH_NASHATEMA_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Оружие" tvg-logo="broadcastChannel1588164054020.jpg",Оружие
+https://mfe.svc.ott.zala.by/hls/EWEXU8FWAZ_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Россия-Культура" tvg-logo="broadcastChannel1415259270381.png",Россия-Культура
+https://mfe.svc.ott.zala.by/hls/9XJGVFFAWZ_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Русский Экстрим" tvg-logo="broadcastChannel1689564394811.jpg",Русский Экстрим
+https://mfe.svc.ott.zala.by/hls/CH_RUSEXTREME_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Рыжий" tvg-logo="broadcastChannel1670933299167.jpg",Рыжий
+https://mfe.svc.ott.zala.by/hls/CH_RYZHIY_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Смайлик" tvg-logo="broadcastChannel1693475542565.png",Смайлик
+https://mfe.svc.ott.zala.by/hls/CH_SMILIK_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Советские мультфильмы" tvg-logo="broadcastChannel1670930517480.jpg",Советские мультфильмы
+https://mfe.svc.ott.zala.by/hls/CH_SOVMULT_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Тайны Галактики" tvg-logo="broadcastChannel1588164671975.jpg",Тайны Галактики
+https://mfe.svc.ott.zala.by/hls/CH_GALAXY_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Телеканал «Кто есть кто»" tvg-logo="broadcastChannel1672041503585.png",Телеканал «Кто есть кто»
+https://mfe.svc.ott.zala.by/hls/CH_KTOESTKTO_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Точка отрыва" tvg-logo="broadcastChannel1695853069963.png",Точка отрыва
+https://mfe.svc.ott.zala.by/hls/CH_TOCHKAOTRYVA_HLS/variant.m3u8
+#EXTINF:-1 tvg-name="Футбол" tvg-logo="broadcastChannel1610520200387.jpg",Футбол
+https://mfe.svc.ott.zala.by/hls/CH_FOOTBALL_HLS/variant.m3u8
